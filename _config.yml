@@ -1,1 +1,4 @@
+logo: /static/logo.png
+description: Vue HTML5 audio visualization components
+show_downloads: true
 theme: jekyll-theme-minimal
